@@ -12,6 +12,7 @@ lib/libcinder*.a
 lib/cinder*.lib
 
 # Windows cruft
+*.[pi]db
 *.suo
 *.ncb
 *.sdf
