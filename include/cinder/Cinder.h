@@ -22,6 +22,12 @@
 
 #pragma once
 
+#if __clang__ 
+	#if ! __has_include( <cstdint> )
+		#error "<cstdint> is missing - Cinder requires libc++ on Mac OS X and iOS"
+	#endif
+#endif
+
 #include <cstdint>
 #include <boost/version.hpp>
 
