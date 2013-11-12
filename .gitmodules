@@ -7,3 +7,9 @@
 [submodule "boost"]
 	path = boost
 	url = git://github.com/cinder/Cinder-Boost.git
+[submodule "blocks/Pockets"]
+	path = blocks/Pockets
+	url = https://github.com/sansumbrella/Pockets.git
+[submodule "blocks/suBox2D"]
+	path = blocks/suBox2D
+	url = https://github.com/sansumbrella/suBox2D.git
