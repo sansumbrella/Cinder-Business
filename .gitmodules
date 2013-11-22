@@ -16,3 +16,6 @@
 [submodule "blocks/PupTent"]
 	path = blocks/PupTent
 	url = https://github.com/sansumbrella/PupTent.git
+[submodule "blocks/Cinder-Asio"]
+	path = blocks/Cinder-Asio
+	url = https://github.com/sansumbrella/Cinder-Asio.git
