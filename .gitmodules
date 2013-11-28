@@ -13,9 +13,6 @@
 [submodule "blocks/suBox2D"]
 	path = blocks/suBox2D
 	url = https://github.com/sansumbrella/suBox2D.git
-[submodule "blocks/PupTent"]
-	path = blocks/PupTent
-	url = https://github.com/sansumbrella/PupTent.git
 [submodule "blocks/Cinder-Asio"]
 	path = blocks/Cinder-Asio
 	url = https://github.com/sansumbrella/Cinder-Asio.git
