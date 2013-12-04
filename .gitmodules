@@ -16,3 +16,6 @@
 [submodule "blocks/Cinder-Asio"]
 	path = blocks/Cinder-Asio
 	url = https://github.com/sansumbrella/Cinder-Asio.git
+[submodule "blocks/Cinder-Bullet"]
+	path = blocks/Cinder-Bullet
+	url = https://github.com/BanTheRewind/Cinder-Bullet.git
