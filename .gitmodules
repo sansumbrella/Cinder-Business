@@ -19,3 +19,6 @@
 [submodule "blocks/Cinder-Bullet"]
 	path = blocks/Cinder-Bullet
 	url = https://github.com/BanTheRewind/Cinder-Bullet.git
+[submodule "blocks/CinderFx"]
+	path = blocks/CinderFx
+	url = git@github.com:chaoticbob/CinderFx.git
