@@ -18,7 +18,7 @@
 	url = https://github.com/sansumbrella/Cinder-Asio.git
 [submodule "blocks/Cinder-Bullet"]
 	path = blocks/Cinder-Bullet
-	url = https://github.com/BanTheRewind/Cinder-Bullet.git
+	url = https://github.com/bhavnaism/Cinder-Bullet.git
 [submodule "blocks/CinderFx"]
 	path = blocks/CinderFx
 	url = https://github.com:chaoticbob/CinderFx.git
